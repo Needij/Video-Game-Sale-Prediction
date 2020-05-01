@@ -21,3 +21,5 @@ Future directions for this is somehow add more information about the game to use
 potentially add meta-critic scores and/or other reviews to it.
 
 This line was added via Rstudio as a test.
+
+This line was added on Github as a test.
