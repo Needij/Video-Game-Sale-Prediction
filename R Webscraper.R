@@ -1,4 +1,4 @@
-#VGChartz website has 55,002 games listed in their table with varying amounts of sales data.
+#VGChartz website has 55,002 games listed in their table with varying amounts of sales data. (as of 8/15/19)
 #VG Chartz has table that contains video games with sales numbers
 library(rvest)
 library(XML)
