@@ -19,5 +19,3 @@ the scraper does not retain the box art images.
 
 Future directions for this is somehow add more information about the game to use it for prediction as well as
 potentially add meta-critic scores and/or other reviews to it.
-
-This line was added on Github as a test.
