@@ -56,7 +56,3 @@ write.csv(gamedata, file = "VGChartz_data.csv")
 
 View(gamedata)
 str(gamedata)
-
-
-#this comment was added and pushed to GitHub via RStudio as a test.
-#This comment was added on GitHub as a test.
